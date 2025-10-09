@@ -28,6 +28,7 @@ h1+p {
     background-color:grey;
     padding: 10px;
     border-radius: 5px;
+    font-style: italic;
 }
 
 /* :hover Pseudo-class */

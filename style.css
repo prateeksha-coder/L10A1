@@ -26,8 +26,8 @@ ul>li {
 /* Sibling Selector */
 h1+p {
     background-color:grey;
-    padding: 10px;
-    border-radius: 5px;
+    padding:10px;
+    border-radius: 9px;
     font-style: italic;
 }
 
